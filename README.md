@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aditya Dhikale 👋
+Aspiring MERN Stack Developer | Passionate about building and deploying full-stack apps
 
-<!--
-**adityadhikale01/adityadhikale01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Languages: C, C++, Python, JavaScript
+- Frameworks: Node.js, Express, React
+- Database: MongoDB Atlas, Mysql
+- Tools:git,github,figma
+- Interests: Networking, Cybersecurity, SaaS concepts ,Devops
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [StayConnect](link)
+- [WasteManagement](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🌐 Connect
+[LinkedIn](your-link) | [Portfolio](your-link)
