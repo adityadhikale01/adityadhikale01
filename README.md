@@ -1,7 +1,6 @@
 # Hi, I'm Aditya Dhikale 👋
 Aspiring MERN Stack Developer | Passionate about building and deploying full-stack apps
 
-## 🛠️ Skills
 ## 🛠️ Skills & Tools
 
 ![C](https://img.shields.io/badge/Code-C-blue?logo=c)
